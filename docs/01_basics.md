@@ -15,7 +15,14 @@
 ### 1.1 编程环境简介
 - 创建目录：`mkdir`
 - 克隆仓库：`git clone`
-- 
+- 提交：
+    ```
+    git status  # 查看状态
+    git add .   # 确认修改
+    git commit -m "first"    # 提交修改
+    git push    # 推送远程仓库
+    ```
+- 拉取：`git pull`
 ### 1.2 在各种操作系统中搭建 Python 编程环境
 
 ### 1.3 运行 Hello World 程序
