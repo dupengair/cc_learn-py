@@ -24,7 +24,11 @@
     ```
 - 拉取：`git pull`
 ### 1.2 在各种操作系统中搭建 Python 编程环境
-
+- vscode插件
+  - extensions（按钮）、已安装显示uninstall
+- 查看python版本号
+  - 进去看：python（退出 Ctrl+D/exit()）
+  - python -V
 ### 1.3 运行 Hello World 程序
 
 ### 1.4 排除安装问题
